@@ -126,3 +126,40 @@ Literally it could be anything any input or Output from the universe.
 ### Why Tensor Flow ?
 
 ![tensorflow](./Assets/Images/tesorflow.png)
+
+```
+"With tools like Colab, Keras, TensorFlow, Virtually any one can solve a problem in a day, with no initial investment which is not possible before..."
+```
+
+### What is GPU/TPU ?
+
+- GPU
+
+Graphics processing unit, a specialized processor originally designed to accelerate graphics rendering. GPUs can process many pieces of data simultaneously, making them useful for machine learning, video editing, and gaming applications.
+
+![gpu](./Assets/Images/gpu.jpg)
+
+- TPU
+
+Tensor Processing Unit is an AI accelerator application-specific integrated circuit developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.
+
+![tpu](./Assets/Images/tpu.png)
+
+### What is Tensor ?
+
+- Some Numerical way to represent information.
+- In the general case, an array of numbers arranged on a regular grid with a variable number of axes is known as a tensor.
+- Tensors are multi-dimensional arrays with a uniform type (called a dtype).
+
+![tensor](./Assets/Images/tensors.jpg)
+
+## Moto
+
+- ### if in doubt run the code
+- ### Experiment Experiment Experiment
+- ### Visualize Vizualize Vizualize
+- ### Google each and every what why etc in your mind.
+
+## I Can Learn It....
+
+# Let's Code ...
