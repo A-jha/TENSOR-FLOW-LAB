@@ -143,7 +143,7 @@ Graphics processing unit, a specialized processor originally designed to acceler
 
 Tensor Processing Unit is an AI accelerator application-specific integrated circuit developed by Google specifically for neural network machine learning, particularly using Google's own TensorFlow software.
 
-![tpu](./Assets/Images/tpu.png)
+![tpu](./Assets/Images/tpu.jpg)
 
 ### What is Tensor ?
 
